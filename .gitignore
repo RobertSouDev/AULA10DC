@@ -1,1 +1,15 @@
 LICENSE.txt
+
+GIT ADD .
+GIT COMMIT -M "SUBINDO PROJETO"
+
+GIT CONfIG --GLOBAL USER.NAME
+GIT CONfIG --GLOBAL USER.EMAIL
+
+git branch -m main
+git remote add origin https://github.com/RobertSouDev/AULA10DC.git
+
+git push -u origin main
+
+git/CONfIG
+
